@@ -3,7 +3,7 @@
 
 [![blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/marcos-reis-68804a99/)
 
-![Manoreis GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoreis&show_icons=true&theme=transparent)
+![Manoreis GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoreis&show_icons=true&theme=transparent)<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoreis&layout=compact)](https://github.com/Manoreis/github-readme-stats)
 

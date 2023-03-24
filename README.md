@@ -1,11 +1,15 @@
 ### Olá eu sou o Marcos Reis 
+<div "style: display inline_block"></br>
+
 [![blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/marcos-reis-68804a99/)
 
 [![blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/marcos-reis-68804a99/)
-[
-![Manoreis GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoreis&show_icons=true&theme=transparent)<br>
 <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoreis&layout=compact)](https://github.com/Manoreis/github-readme-stats)
+<br>
 
 
 ### Tecnologias que eu uso no meu dia

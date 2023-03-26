@@ -28,4 +28,4 @@ Engenheito de Software em formação; apaixonado por tecnologia; sempre pronto p
 
 ## Eu curto: 👍
 
-[![Top Langs](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/Manoreis/github-readme-stats)
+[![Top Langs](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
